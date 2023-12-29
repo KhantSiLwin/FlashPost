@@ -27,10 +27,6 @@ Generate a new application key
 
     php artisan key:generate
 
-Install Node Modeules
-
-npm install
-
 Run the database migrations  and seeder(**Set the database connection in .env before migrating**)
 
     php artisan migrate --seed
